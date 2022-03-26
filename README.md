@@ -14,4 +14,4 @@ big database of Iranian cars (info + price)
 
 ## suggest for you:
 - [ ] Use this db for ml model that suggest us best price of a car
-- [ ] Use this data for anything think you think :)
+- [ ] Use this data for anything thing you think :)
